@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>water-slide.png</file>
+        <file>sea.png</file>
+        <file>professions-and-jobs.png</file>
+        <file>sports-and-competition.png</file>
+        <file>architecture-and-city.png</file>
+        <file>summertime.png</file>
+        <file>beach-ball.png</file>
+        <file>whistle.png</file>
+        <file>snorkeling.png</file>
+        <file>theater.png</file>
+    </qresource>
+</RCC>
